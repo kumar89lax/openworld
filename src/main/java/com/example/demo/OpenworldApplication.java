@@ -8,7 +8,6 @@ public class OpenworldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OpenworldApplication.class, args);
-		//This is a test application
 	}
 
 }
